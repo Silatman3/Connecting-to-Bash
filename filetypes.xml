@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test" type="C#" />
+      <mapping pattern="BankAccount" type="CLASS" />
+      <mapping pattern="Java Class" type="CLASS" />
+      <mapping pattern="Java class" type="CLASS" />
+      <mapping pattern="W9Q4" type="JAVA" />
+      <mapping pattern="Q3" type="JAVA" />
+      <mapping pattern="Hello World" type="PLAIN_TEXT" />
+      <mapping pattern="T2 Week1" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
